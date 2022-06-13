@@ -1,4 +1,4 @@
-name: Deploy speck
+name: Deploy myportfolio
 on:
   push:
     branches: [ main ]
