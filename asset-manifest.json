@@ -1,9 +1,9 @@
 {
-  "main.css": "/myportfolio/static/css/main.e74e72c5.chunk.css",
-  "main.js": "/myportfolio/static/js/main.925178ad.chunk.js",
-  "main.js.map": "/myportfolio/static/js/main.925178ad.chunk.js.map",
-  "static/js/1.0a69c9f3.chunk.js": "/myportfolio/static/js/1.0a69c9f3.chunk.js",
-  "static/js/1.0a69c9f3.chunk.js.map": "/myportfolio/static/js/1.0a69c9f3.chunk.js.map",
+  "main.css": "/myportfolio/static/css/main.46b12ec9.chunk.css",
+  "main.js": "/myportfolio/static/js/main.9030a6f0.chunk.js",
+  "main.js.map": "/myportfolio/static/js/main.9030a6f0.chunk.js.map",
+  "static/js/1.94225cef.chunk.js": "/myportfolio/static/js/1.94225cef.chunk.js",
+  "static/js/1.94225cef.chunk.js.map": "/myportfolio/static/js/1.94225cef.chunk.js.map",
   "runtime~main.js": "/myportfolio/static/js/runtime~main.6b6f225b.js",
   "runtime~main.js.map": "/myportfolio/static/js/runtime~main.6b6f225b.js.map",
   "static/media/Danish Irfan - Resume.pdf": "/myportfolio/static/media/Danish Irfan - Resume.a28206c4.pdf",
@@ -13,8 +13,9 @@
   "static/media/discord.png": "/myportfolio/static/media/discord.e9e59613.png",
   "static/media/flossy2.png": "/myportfolio/static/media/flossy2.7dcf9f4b.png",
   "static/media/giftlogo.png": "/myportfolio/static/media/giftlogo.98febd02.png",
-  "static/css/main.e74e72c5.chunk.css.map": "/myportfolio/static/css/main.e74e72c5.chunk.css.map",
+  "static/media/logo_ppswe.png": "/myportfolio/static/media/logo_ppswe.da8cce4a.png",
+  "static/css/main.46b12ec9.chunk.css.map": "/myportfolio/static/css/main.46b12ec9.chunk.css.map",
   "index.html": "/myportfolio/index.html",
-  "precache-manifest.60da5732eb7229f316340b87088992a9.js": "/myportfolio/precache-manifest.60da5732eb7229f316340b87088992a9.js",
+  "precache-manifest.5113c6284faba29554e9c8ae5ab88dac.js": "/myportfolio/precache-manifest.5113c6284faba29554e9c8ae5ab88dac.js",
   "service-worker.js": "/myportfolio/service-worker.js"
 }
