@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 import myPic from '../../assets/profilepic_about.jpg'
-import {FaAward} from 'react-icons/fa'
+import {FaLaptopCode, FaMobileAlt} from 'react-icons/fa'
 
 const About = () => {
   return (
@@ -19,23 +19,23 @@ const About = () => {
         <div className="about__content">
           <div className="about__cards">
             <article className="about__card">
-              <FaAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small>3+ Years</small>
+              <FaLaptopCode className='about__icon'/>
+              <h5>Web Development</h5>
+              <small>1+ Year</small>
             </article>
             <article className="about__card">
+              <FaMobileAlt className='about__icon'/>
+              <h5>Mobile Apps Development</h5>
+              <small>1+ Year</small>
+            </article>
+            {/* <article className="about__card">
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
               <small>3+ Years</small>
-            </article>
-            <article className="about__card">
-              <FaAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small>3+ Years</small>
-            </article>
+            </article> */}
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe molestias consectetur, ut laudantium delectus dolor ducimus accusamus, ipsa recusandae et culpa consequuntur maxime, ex neque harum dicta beatae iusto quo?</p>
+          <p>A 21 year's old programmer. Currently studying in National University of Malaysia(UKM). Live in Banting, Selangor. Love to play video games, badminton and chess. Technology explorer, especially in web development. My main objective is to focus on MERN stack(Javascript stack). Mobile app development also included. I also has several experience in freelancing. </p>
         
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
