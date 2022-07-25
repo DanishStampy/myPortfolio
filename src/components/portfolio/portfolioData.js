@@ -2,6 +2,7 @@ import imgUkmads from "../../assets/ukmads.png";
 import discordBot from "../../assets/discord.png";
 import flossyCare from "../../assets/flossy2.png";
 import giftLogo from "../../assets/giftlogo.png";
+import ppsweLogo from "../../assets/logo_ppswe.png";
 
 const data = [
   {
@@ -31,6 +32,13 @@ const data = [
     image_alt: "UniqueGiftShop logo",
     title: 'UniqueGift Shop Management System',
     github_link: 'https://github.com/DanishStampy/UniqueGiftShop_Web'
+  },
+  {
+    id: 5,
+    image: ppsweLogo,
+    image_alt: "PPSWE logo",
+    title: 'PPSWE Apps',
+    github_link: 'https://github.com/DanishStampy/PPSWE'
   },
 ]
 
