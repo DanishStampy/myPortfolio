@@ -2,7 +2,7 @@ import React, { useRef } from 'react'
 import './contact.css'
 import { AiOutlineMail, AiOutlineWhatsApp } from 'react-icons/ai'
 import emailjs from 'emailjs-com'
-// import data from './emaildata.js'
+import data from './emaildata.js'
 
 const Contact = () => {
   const form = useRef();
@@ -10,11 +10,11 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm(process.env.SERVICE_ID, process.env.TEMPLATE_ID, form.current, process.env.PUBLIC_KEY)
+    emailjs.sendForm(data.SERVICE_ID, data.TEMPLATE_ID, form.current, data.PUBLIC_KEY)
       .then((result) => {
           console.log(result.text);
       }, (error) => {
-          console.log(error.text + ' ' + process.env.PUBLIC_KEY);
+          console.log(error.text + ' ' + data.PUBLIC_KEY);
       });
 
     e.target.reset();
