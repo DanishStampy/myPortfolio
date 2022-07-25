@@ -1,8 +1,8 @@
 import React, { useRef } from 'react'
 import './contact.css'
 import { AiOutlineMail, AiOutlineWhatsApp } from 'react-icons/ai'
-// import emailjs from 'emailjs-com'
-import data from './emaildata.js'
+import emailjs from 'emailjs-com'
+// import data from './emaildata.js'
 
 const Contact = () => {
   const form = useRef();
@@ -14,7 +14,7 @@ const Contact = () => {
       .then((result) => {
           console.log(result.text);
       }, (error) => {
-          console.log(error.text + ' ' + data.PUBLIC_KEY);
+          console.log(error.text + ' ' + process.env.PUBLIC_KEY);
       });
 
     e.target.reset();
