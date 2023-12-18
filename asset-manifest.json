@@ -1,21 +1,23 @@
 {
-  "main.css": "/myportfolio/static/css/main.46b12ec9.chunk.css",
-  "main.js": "/myportfolio/static/js/main.9030a6f0.chunk.js",
-  "main.js.map": "/myportfolio/static/js/main.9030a6f0.chunk.js.map",
-  "static/js/1.94225cef.chunk.js": "/myportfolio/static/js/1.94225cef.chunk.js",
-  "static/js/1.94225cef.chunk.js.map": "/myportfolio/static/js/1.94225cef.chunk.js.map",
-  "runtime~main.js": "/myportfolio/static/js/runtime~main.6b6f225b.js",
-  "runtime~main.js.map": "/myportfolio/static/js/runtime~main.6b6f225b.js.map",
-  "static/media/Danish Irfan - Resume.pdf": "/myportfolio/static/media/Danish Irfan - Resume.a28206c4.pdf",
-  "static/media/profilepic.png": "/myportfolio/static/media/profilepic.95fc6971.png",
-  "static/media/profilepic_about.jpg": "/myportfolio/static/media/profilepic_about.254db213.jpg",
-  "static/media/ukmads.png": "/myportfolio/static/media/ukmads.16f36100.png",
-  "static/media/discord.png": "/myportfolio/static/media/discord.e9e59613.png",
-  "static/media/flossy2.png": "/myportfolio/static/media/flossy2.7dcf9f4b.png",
-  "static/media/giftlogo.png": "/myportfolio/static/media/giftlogo.98febd02.png",
-  "static/media/logo_ppswe.png": "/myportfolio/static/media/logo_ppswe.da8cce4a.png",
-  "static/css/main.46b12ec9.chunk.css.map": "/myportfolio/static/css/main.46b12ec9.chunk.css.map",
-  "index.html": "/myportfolio/index.html",
-  "precache-manifest.5113c6284faba29554e9c8ae5ab88dac.js": "/myportfolio/precache-manifest.5113c6284faba29554e9c8ae5ab88dac.js",
-  "service-worker.js": "/myportfolio/service-worker.js"
+  "files": {
+    "main.css": "/myportfolio/static/css/main.e815e086.css",
+    "main.js": "/myportfolio/static/js/main.dd5cbd25.js",
+    "static/media/profilepic_about.jpg": "/myportfolio/static/media/profilepic_about.aed30d4202447bd31414.jpg",
+    "static/media/nurse2ulogo.png": "/myportfolio/static/media/nurse2ulogo.b2e9a84c4169057ae3fd.png",
+    "static/media/Danish Irfan - Resume.pdf": "/myportfolio/static/media/Danish Irfan - Resume.27cc8e4e3bec89e2ae25.pdf",
+    "static/media/ukmads.png": "/myportfolio/static/media/ukmads.03d99064ad2758a9f973.png",
+    "static/media/profilepic.png": "/myportfolio/static/media/profilepic.628f7d9645424b2ce0c4.png",
+    "static/media/inablogo.png": "/myportfolio/static/media/inablogo.08d39f97bf151cef363b.png",
+    "static/media/inabwebsitelogo.png": "/myportfolio/static/media/inabwebsitelogo.7e086673e64d2392ae88.png",
+    "static/media/giftlogo.png": "/myportfolio/static/media/giftlogo.9a5822b66b2fc94cb705.png",
+    "static/media/flossy2.png": "/myportfolio/static/media/flossy2.d44e909b94d69dbf2d9d.png",
+    "static/media/logo_ppswe.png": "/myportfolio/static/media/logo_ppswe.d87aff846b2aa6edbe09.png",
+    "index.html": "/myportfolio/index.html",
+    "main.e815e086.css.map": "/myportfolio/static/css/main.e815e086.css.map",
+    "main.dd5cbd25.js.map": "/myportfolio/static/js/main.dd5cbd25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e815e086.css",
+    "static/js/main.dd5cbd25.js"
+  ]
 }
