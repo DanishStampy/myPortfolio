@@ -29,6 +29,10 @@
 
 .portfolio__item-cta {
   text-align: center;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
 }
 
 /* ==================== MEDIA QUERIES (MEDIUM DEVICES) ==================== */

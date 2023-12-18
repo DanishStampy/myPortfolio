@@ -1,0 +1,4 @@
+.content__container {
+    width: calc(100vw - 20%);
+    background-color: var(--color-primary);
+}

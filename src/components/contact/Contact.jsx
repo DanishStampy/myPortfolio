@@ -30,8 +30,8 @@ const Contact = () => {
           <article className="contact__option">
             <AiOutlineMail className='contact_option-icon' />
             <h4>Email</h4>
-            <h5>secret3321@gmail.com</h5>
-            <a href="mailto:secret3321@gmail.com" target="_blank" rel='noopener'>Send a message</a>
+            <h5>danishshah1712@gmail.com</h5>
+            <a href="mailto:danishshah1712@gmail.com" target="_blank" rel='noopener'>Send a message</a>
           </article>
           <article className="contact__option">
             <AiOutlineWhatsApp className='contact_option-icon' />
