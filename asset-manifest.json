@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.e815e086.css",
-    "main.js": "/myportfolio/static/js/main.dd5cbd25.js",
+    "main.js": "/myportfolio/static/js/main.6484d62d.js",
     "static/media/profilepic_about.jpg": "/myportfolio/static/media/profilepic_about.aed30d4202447bd31414.jpg",
     "static/media/nurse2ulogo.png": "/myportfolio/static/media/nurse2ulogo.b2e9a84c4169057ae3fd.png",
     "static/media/Danish Irfan - Resume.pdf": "/myportfolio/static/media/Danish Irfan - Resume.27cc8e4e3bec89e2ae25.pdf",
@@ -14,10 +14,10 @@
     "static/media/logo_ppswe.png": "/myportfolio/static/media/logo_ppswe.d87aff846b2aa6edbe09.png",
     "index.html": "/myportfolio/index.html",
     "main.e815e086.css.map": "/myportfolio/static/css/main.e815e086.css.map",
-    "main.dd5cbd25.js.map": "/myportfolio/static/js/main.dd5cbd25.js.map"
+    "main.6484d62d.js.map": "/myportfolio/static/js/main.6484d62d.js.map"
   },
   "entrypoints": [
     "static/css/main.e815e086.css",
-    "static/js/main.dd5cbd25.js"
+    "static/js/main.6484d62d.js"
   ]
 }
