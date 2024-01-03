@@ -31,22 +31,22 @@ const data = [
     github_link: 'https://github.com/DanishStampy/inab-admin',
     website_link: 'https://myworkers-34659.web.app/'
   },
-  {
-    id: 4,
-    image: flossyCare,
-    image_alt: "FlossyCare logo",
-    title: 'FlossyCare Dental Appoinment Apps',
-    github_link: 'https://github.com/ViceNish/Flossy-Care',
-    website_link: null
-  },
-  {
-    id: 5,
-    image: giftLogo,
-    image_alt: "UniqueGiftShop logo",
-    title: 'UniqueGift Shop Management System',
-    github_link: 'https://github.com/DanishStampy/UniqueGiftShop_Web',
-    website_link: null
-  },
+  // {
+  //   id: 4,
+  //   image: flossyCare,
+  //   image_alt: "FlossyCare logo",
+  //   title: 'FlossyCare Dental Appoinment Apps',
+  //   github_link: 'https://github.com/ViceNish/Flossy-Care',
+  //   website_link: null
+  // },
+  // {
+  //   id: 5,
+  //   image: giftLogo,
+  //   image_alt: "UniqueGiftShop logo",
+  //   title: 'UniqueGift Shop Management System',
+  //   github_link: 'https://github.com/DanishStampy/UniqueGiftShop_Web',
+  //   website_link: null
+  // },
   {
     id: 6,
     image: ppsweLogo,
